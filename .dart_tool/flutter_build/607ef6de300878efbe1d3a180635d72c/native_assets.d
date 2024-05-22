@@ -1,0 +1,1 @@
+ D:\\Dc-Community\\nfinic\\.dart_tool\\flutter_build\\607ef6de300878efbe1d3a180635d72c\\native_assets.yaml: 
